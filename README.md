@@ -1,1 +1,1 @@
-# am_i_alive
+true
